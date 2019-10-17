@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <table>
+           <row>
+              <cell role="name"><persName>Henry Floyd</persName></cell>
+              <cell role="label">cash</cell>
+              <cell role="data">25</cell>
+           </row>
+           <row>
+              <cell role="name"><persName>Henry Floyd</persName></cell>
+              <cell role="label"><unclear reason="illegible" cert="low">tule</unclear></cell>
+              <cell role="data">10</cell>
+           </row>
+           <row>
+              <cell role="name"><persName>Jerry Noah</persName></cell>
+              <cell role="label"><unclear reason="illegible" cert="medium"></unclear></cell>
+              <cell role= "data">15</cell>
+              <cell role="label"><unclear reason="illegible" cert="low">crax</unclear></cell>
+             <cell role="data">10</cell>
+           </row>
+           <row>
+<cell role="name"><persName>Herman Jones Jr</persName></cell>
+ <cell role="label"><unclear reason="illegible" cert="medium"></unclear></cell>
+         <cell role="data">25</cell>
+              <cell role= "label"><unclear reason="illegible" cert="medium"></unclear></cell>
+           <cell role="label"><choice><unclear reason="illegible" cert="low">cafe</unclear>
+                 <unclear reason="illegible" cert="low">calf</unclear>
+              </choice></cell>
+              <cell role="data">10</cell>
+              <cell role= "data">35></cell>
+
+          </row>
+           <row>
+              <cell role="name"><persName>Hilda Hagan</persName></cell>
+              <cell role="label"><unclear reason="illegible" cert="medium">mache</unclear></cell>
+              <cell role="data">40</cell>
+           </row>
+           <row>
+              <cell role="name"><persName>Yaz Jackson</persName>></cell>
+              <cell role="label"><unclear reason="illegible" cert="medium">meat</unclear></cell>
+              <cell role="data">75</cell>
+              <cell role="label"><unclear reason="illegible" cert="high">fish</unclear></cell>
+              <cell role="data">25</cell>
+              <cell role= "data">100</cell>
+              <cell role="label"><unclear reason="illegible" cert="high">flour</unclear></cell>
+              <cell role="data">50</cell>
+              <cell role="label"><unclear reason="faded" cert="unknown"></unclear></cell>
+           </row>
+           <row>
+
+              <cell role="label"><persName>John</persName><unclear reason="faded" cert="low"></unclear></cell>
+           <cell role="label"><unclear reason="faded" cert="high">flour</unclear></cell>
+           <cell role="data">80</cell>
+            <cell role= "label">meat</cell>
+              <cell role="data">90</cell>
+              <cell role="label">rug</cell>
+              <cell role="data">50</cell>
+              <cell role="label">oil</cell>
+              <cell role="label"><unclear reason="illegible" cert="unknown"></unclear></cell>
+              <cell role="data">10</cell>
+              <cell role="label"><unclear reason="illegible" cert="unknown">thuad</unclear></cell>
+              <cell role="data">10</cell>
+              <cell role="label" cert="medium">cafe</cell>
+              <cell role="data">25</cell>
+              <cell role="label" cert="high">fish</cell>
+           </row>
+           <row>
+              <cell role="label"><persName> Walter Van Brunt</persName></cell>
+              <cell role= "label"><unclear reason="illegible" cert="low"></unclear></cell>
+              <cell role="data">60</cell>
+           </row>
+           <row>
+              <cell role="label"><persName>J H Brandon</persName>></cell>
+              <cell role="label"><unclear reason="illegible" cert="low"></unclear></cell>
+              <cell role="data"><unclear reason="faded" cert="medium">15</unclear></cell>
+           </row>
+           <row>
+              <cell role="label"><persName>Tom M Hiel</persName></cell>
+              <cell role="label"><unclear reason="illegible" cert="unknown"></unclear></cell>
+              <cell role="data">95</cell>
+              <cell role="label"><unclear reason= "illegible" cert="unknown"></unclear></cell>
+              <cell role= "data">45</cell>
+           </row>
+           <row>
+              <cell></cell>
+           </row>
+           <row>
+              <cell><!-- I think this says mushe??? --></cell>
+           </row>
+           <row>
+           <cell role="label"><persName>Isaac Meattess</persName><unclear reason="illegible" cert="medium"></unclear></cell>
+             <cell role="label"><unclear reason="illegible" cert= "medium"></unclear>muche to Richmond</cell>
+                <cell role="data">170</cell>
+           <cell role="label"><unclear reason="illegible" cert="low"></unclear></cell>
+           <cell role="data">120</cell>
+           <cell role="label"><unclear reason="illegible" cert="low"></unclear></cell>
+           <cell role="data">25</cell>
+           <cell role="label"><unclear reason="illegible" cert="high">fish</unclear></cell>
+           <cell role="data">50</cell>
+           <cell role="label"><unclear reason="illegible" cert="low"></unclear></cell>
+           <cell role="data">200</cell>
+              <cell role="label"><unclear reason="illegible" cert="high">mail</unclear></cell>
+              <cell role="data">15</cell>
+              <cell role="label"><unclear reason="illegible" cert="medium">Beale to Ed</unclear></cell>
+              <cell role="data"><unclear reason="illegible" cert="medium"></unclear>50</cell>
+              <cell role="label"><unclear reason="illegible" cert="medium"></unclear>mdse</cell>
+              <cell role="data">25</cell>
+           </row>
+           <row>
+           <cell role="label"><persName>Keith Nalk</persName><unclear reason="illegible" cert="medium"></unclear></cell>
+              <cell role="label"><unclear reason="illegible" cert="unknown"></unclear></cell>
+              <cell role="data">80</cell>
+              <cell role="label"><unclear reason="illegible" cert="medium"></unclear>muche</cell>
+              <cell role="data">180</cell>
+           </row>
+           <row>
+              <cell role="label"><persName>Ophelia Hill</persName></cell>
+              <cell role="label"><unclear reason="illegible" cert="medium">1 1/2 oil</unclear></cell>
+              <cell role= "data">05</cell>
+                 <cell role="label">fish</cell>
+              <cell role="data">20</cell>
+              <cell role="label"><unclear reason="illegible" cert="unknown"></unclear></cell>
+             <cell role="data">5</cell>
+              <cell role="data">25</cell>
+           </row>
+           <row>
+              <cell role="label"><persName>Damon Dennis</persName></cell>
+              <cell role="label"><unclear reason="illegible" cert="medium">mdse</unclear></cell>
+              <cell ><!-- mdse is an abbreviation for merchandise --></cell>
+              <cell role="data">20</cell>
+           </row>
+           <row>
+              <cell role="label"><persName>Henry Thomas</persName></cell>
+              <cell role="label"><unclear reason="illegible" cert="medium">grapefruit</unclear></cell>
+              <cell><!-- it probably isnt grapefruit, ill keep this here for now --></cell>
+              <cell role="data">310</cell>
+              <cell role="label"><unclear reason="illegible" cert="low">syrup</unclear></cell>
+              <cell role="data">60</cell>
+              <cell role="label"><unclear reason="illegible" cert="medium">oil</unclear></cell>
+              <cell><!-- There is what appears to be an H in front of the word oil --></cell>
+              <cell role="data">15</cell>
+
+           </row>
+           <row>
+              <cell role="label"><persName>Ellis Hill</persName></cell>
+              <cell role="data">25</cell>
+           </row>
+           <row>
+              <cell role="label"><persName>Henry Thomas</persName></cell>
+              <cell role="label"><unclear reason="illegible" cert="medium">lantern</unclear></cell>
+              <cell role="data">60</cell>
+              <cell role="label"><unclear reason="illegible" cert="low">a grape</unclear></cell>
+              <cell><!-- I cannot tell if first letter is a 'g' or 'q' --></cell>
+              <cell role="label"><unclear reason="illegible" cert="medium">knife</unclear></cell>
+              <cell role="data">10</cell>
+           </row>
+           <row>
+              <cell role="label"><persName>J H Brandon</persName></cell>
+              <cell role="label"><unclear reason="illegible" cert="low">ardu to Bay</unclear></cell>
+              <cell role="data">100</cell>
+
+           </row>
+           <row>
+              <cell role="label"><persName>Thomas Johansson</persName></cell>
+              <cell role="label"><unclear reason="illegible" cert="medium">flour</unclear></cell>
+              <cell role="data">50</cell>
+              <cell role="label"><unclear reason="illegible" cert="medium">rug</unclear></cell>
+              <cell role="data">25</cell>
+              <cell role="label"><unclear reason="illegible" cert="medium">tow</unclear></cell>
+              <cell role="data">50</cell>
+           </row>
+           <row>
+              <cell role="label"><persName>John Nyeh</persName></cell>
+							<cell role="label"><unclear reason="illegible" cert="unknown"><unclear></cell>
+							<cell role="data">300</cell>
+							<cell><! -- The page is cut off after this entry --></cell>
+           </row>
+					 <row>
+						 <cell role="label"><persName>David Arehad</persName></cell>
+							 <cell role="label"><unclear reason="illegible" cert="unknown"><unclear></cell>
+							 <cell role="data">90</cell>
+							 <cell role="label"><unclear reason="illegible" cert="unkown"></cell>
+							 <cell role="data">55</cell>
+							 <cell role="label"><unclear reason="illegible" cert="unkown"></cell>
+							 <cell role="data">55</cell>
+						</row>
+						<row>
+							<cell role="label"><persName>Mary Floyd</persName></cell>
+        </table>
+      </body>
+     <back>
+        <listPerson>
+           <person xml:id="hfloyd">
+						 	<persName>Henry Floyd</persName>
+					 </person>
+        </listPerson>
+     </back>
+  </text>
+</TEI>
