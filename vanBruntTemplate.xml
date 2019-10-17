@@ -38,7 +38,7 @@
            </row>
            <row>
 <cell role="name"><persName>Herman Jones Jr</persName></cell>
- <cell role="label"><unclear reason="illegible" cert="medium"></unclear></cell>            
+ <cell role="label"><unclear reason="illegible" cert="medium"></unclear></cell>
          <cell role="data">25</cell>
               <cell role= "label"><unclear reason="illegible" cert="medium"></unclear></cell>
            <cell role="label"><choice><unclear reason="illegible" cert="low">cafe</unclear>
@@ -46,7 +46,7 @@
               </choice></cell>
               <cell role="data">10</cell>
               <cell role= "data">35></cell>
-              
+
           </row>
            <row>
               <cell role="name"><persName>Hilda Hagan</persName></cell>
@@ -65,7 +65,7 @@
               <cell role="label"><unclear reason="faded" cert="unknown"></unclear></cell>
            </row>
            <row>
-              
+
               <cell role="label"><persName>John</persName><unclear reason="faded" cert="low"></unclear></cell>
            <cell role="label"><unclear reason="faded" cert="high">flour</unclear></cell>
            <cell role="data">80</cell>
@@ -157,7 +157,7 @@
               <cell role="label"><unclear reason="illegible" cert="medium">oil</unclear></cell>
               <cell><!-- There is what appears to be an H in front of the word oil --></cell>
               <cell role="data">15</cell>
-             
+
            </row>
            <row>
               <cell role="label"><persName>Ellis Hill</persName></cell>
@@ -176,7 +176,7 @@
               <cell role="label"><persName>G H Brandon</persName></cell>
               <cell role="label"><unclear reason="illegible" cert="low">ardu to Bay</unclear></cell>
               <cell role="data">100</cell>
-              
+
            </row>
            <row>
               <cell role="label"><persName>Thomas Johansson</persName></cell>
@@ -194,7 +194,9 @@
       </body>
      <back>
         <listPerson>
-           <person xml:id="hfloyd"></person>
+           <person xml:id="hfloyd">
+						 	<persName>Henry Floyd</persName>
+					 </person>
         </listPerson>
      </back>
   </text>
