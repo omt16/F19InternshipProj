@@ -239,7 +239,62 @@
 								<cell role="data">30</cell>
 								<cell role="label"><unclear reason="illegible" cert="medium">tow</cell>
 								<cell role="data">10</cell>
-								<cell role="label">
+								<cell role="label"><unclear reason="illegible" cert="low">syrup</cell>
+								<cell role="data">10</cell>
+								<cell role="data">20</cell>
+							</row>
+							<row>
+								<cell role="label"><persName>Byrd Schamer</persName></cell>
+								<cell><!--I am not sure the last name is correct. --></cell>
+								<cell role="label"><unclear reason="illegible" cert="medium">1/2 oil</cell>
+								<cell><!-- I know that it says 'oil', but I do not know what the symbol before the word means--></cell>
+								<cell role="data">05</cell>
+							</row>
+							<row>
+								<cell role="label"><persName>John Ash</persname></cell>
+								<cell role="label"><unclear reason="illegible" cert="unknown">querido</cell>
+								<cell><!-- The text does not say 'querido', but that is all I can see.--></cell>
+								<cell role="data">295</cell>
+								<cell role="label"><unclear reason="illegible" cert="unknown">Ohio</cell>
+								<cell><!--Again, no idea what it says.--></cell>
+								<cell role="data">250</cell>
+								<cell role="data">545</cell>
+							</row>
+							<row>
+								<cell role="label"><persName>Jord Norm</persName></cell>
+								<cell role="label"><unclear reason="illegible" cert="unknown">2 h</cell>
+								<cell><!-- No idea what this is trying to convey.--></cell>
+								<cell role="data">80</cell>
+							</row>
+							<row>
+								<cell role="label"><persName>Jim Johnson</persName></cell>
+								<cell role="label">corn</cell>
+								<cell role="data">25</cell>
+								<cell role="label">fish</cell>
+									<cell role="data">25</cell>
+									<cell role="data">50</cell>
+									<cell role="label"><unclear reason="illegible" cert="low">ayoter</cell>
+									<cell role="data">10</cell>
+									<cell role="label">salmon</cell>
+									<cell role="data">15</cell>
+									<cell role="data">25</cell>
+									<cell role="label">cocoa</cell>
+									<cell role="data">90</cell>
+								</row>
+								<row>
+									<cell role="label"><persName>Mamoca Nacker></cell>
+										<cell role="label">cash</cell>
+										<cell role="data">150</cell>
+									</row>
+									<row>
+										<cell role="label"><persName>Bert Brennan></cell>
+										<cell><!-- I am unable to read every word in this entry.--></cell>
+										<cell role="data">25</cell>
+									</row>
+									<row>
+										<cell role="label"><persName>Adam Bryant></cell>
+										<cell role="label">flour</cell>
+										<cell role="data">50</cell>
         </table>
       </body>
      <back>
