@@ -295,6 +295,17 @@
 										<cell role="label"><persName>Adam Bryant></cell>
 										<cell role="label">flour</cell>
 										<cell role="data">50</cell>
+										<cell role="label">lard</cell>
+										<cell role="data">15</cell>
+										<cell role="label"><unclear reason="illegible" cert="medium">jug</cell>
+										<cell role="data">10</cell>
+										<cell role ="label">coffee</cell>
+										<Cell role="data">10</cell>
+										<cell role="label"><unclear reason="illegible" cert="medium">tulle</cell>
+										<cell role="data">30</cell>
+										<cell role="label"><unclear reason="illegible" cert="medium">smuthe</cell>
+										<cell role="data">30</cell>
+										<cell role="label">jam</cell>
         </table>
       </body>
      <back>
