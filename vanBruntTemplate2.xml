@@ -282,30 +282,69 @@
 									<cell role="data">90</cell>
 								</row>
 								<row>
-									<cell role="label"><persName>Mamoca Nacker></cell>
+									<cell role="label"><persName>Mamoca Nacker<persName></cell>
 										<cell role="label">cash</cell>
 										<cell role="data">150</cell>
 									</row>
 									<row>
-										<cell role="label"><persName>Bert Brennan></cell>
+										<cell role="label"><persName>Bert Brennan<persName></cell>
 										<cell><!-- I am unable to read every word in this entry.--></cell>
 										<cell role="data">25</cell>
 									</row>
 									<row>
-										<cell role="label"><persName>Adam Bryant></cell>
+										<cell role="label"><persName>Adam Bryant<persName></cell>
 										<cell role="label">flour</cell>
 										<cell role="data">50</cell>
 										<cell role="label">lard</cell>
 										<cell role="data">15</cell>
+										<cell role="data">65</cell>
 										<cell role="label"><unclear reason="illegible" cert="medium">jug</cell>
 										<cell role="data">10</cell>
 										<cell role ="label">coffee</cell>
 										<Cell role="data">10</cell>
+										<cell role="data">20</cell>
 										<cell role="label"><unclear reason="illegible" cert="medium">tulle</cell>
 										<cell role="data">30</cell>
 										<cell role="label"><unclear reason="illegible" cert="medium">smuthe</cell>
 										<cell role="data">30</cell>
+										<cell role="data">60</cell>
 										<cell role="label">jam</cell>
+										<cell role="label"><unclear reason="illegible" cert="low">salt fruits</cell>
+										<cell role="data">5</cell>
+										<cell role="data">30</cell>
+									</row>
+									<row>
+										<cell role="label"><persName>Nillie Jones<persName></cell>
+										<cell><!-- I am unable to read what she purchased.--></cell>
+										<cell role="data">275</cell>
+									</row>
+									<row>
+										<cell role="label"><persName>Henderman Jones<persName></cell>
+										<cell role="label"><!--This says something with a "g", I want to say it is grapefruit but I have no idea.--></cell>
+										<cell role="data">50</cell>
+									</row>
+									<row>
+										<cell role="label"><persName>William S.<persName></cell>
+										<cell><!-- The last name is illegible.--></cell>
+										<cell role="label">fish</cell>
+										<cell role="data">25</cell>
+										<cell role="label">lard</cell>
+										<cell role="data">15</cell>
+										<cell role="data">40</cell>
+										<cell rolke="label"><unclear reason="illegible" cert="medium">sill</cell>
+										<cell role="data">10</cell>
+										<cell role="label"><unclear reason="illegible" cert="high">tule</cell>
+										<cell role="data">10</cell>
+										<cell role="label"><unclear reason="illegible" cert="medium">smuth</cell>
+										<Cell role="data">10</cell>
+										<cell role="data">30</cell>
+										<cell role="label"><unclear reason-"illegible" cert="unknown">limechit</cell>
+										<cell role="data">05</cell>
+									</row>
+									<row>
+									<cell role="label"><persName>Henry Davis</cell>
+									<cell role="label">mdse</cell>
+									<cell role="data">55</cell>	
         </table>
       </body>
      <back>
